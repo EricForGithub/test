@@ -24,6 +24,7 @@
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+    NSLog(@"what i change in new branch");
 }
 
 @end

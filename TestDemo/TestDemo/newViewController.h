@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  newViewController.h
 //  TestDemo
 //
 //  Created by Breeze on 13-6-22.
@@ -8,7 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface newViewController : UIViewController
 
 @end

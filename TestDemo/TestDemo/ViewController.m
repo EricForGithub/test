@@ -24,6 +24,10 @@
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+
+    // test string 22222
+    //do toehrerer
+
 }
 
 @end

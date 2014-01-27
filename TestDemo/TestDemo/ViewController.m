@@ -24,7 +24,7 @@
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
-    //a test string 
+    // test string 22222
 }
 
 @end
